@@ -111,8 +111,7 @@ ML-Lab-Experiment-2
 ├── Output
 │   ├── titanic_statistics.csv
 │   ├── iris_statistics.csv
-│   ├── titanic_cleaned.csv
-│   └── iris_cleaned.csv
+│   └── titanic_cleaned.csv
 │
 ├── .gitignore
 └── README.md
